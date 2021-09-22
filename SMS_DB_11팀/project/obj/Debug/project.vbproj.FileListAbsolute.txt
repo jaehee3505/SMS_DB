@@ -1,0 +1,174 @@
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\project.exe.config
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.Form1.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.Resources.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\MySql.Data.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\bin\Debug\MySql.Data.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.add_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.main.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.del_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.ser_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.add_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.del_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\project\project\obj\Debug\project.ser_conversation.resources
+D:\데이터베이스\project\project\bin\Debug\project.exe.config
+D:\데이터베이스\project\project\obj\Debug\project.exe
+D:\데이터베이스\project\project\obj\Debug\project.xml
+D:\데이터베이스\project\project\obj\Debug\project.pdb
+D:\데이터베이스\project\project\bin\Debug\project.exe
+D:\데이터베이스\project\project\bin\Debug\project.pdb
+D:\데이터베이스\project\project\bin\Debug\project.xml
+D:\데이터베이스\project\project\bin\Debug\Google.Protobuf.dll
+D:\데이터베이스\project\project\bin\Debug\BouncyCastle.Crypto.dll
+D:\데이터베이스\project\project\bin\Debug\Renci.SshNet.dll
+D:\데이터베이스\project\project\bin\Debug\MySql.Data.xml
+D:\데이터베이스\project\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+D:\데이터베이스\project\project\obj\Debug\project.add_contact.resources
+D:\데이터베이스\project\project\obj\Debug\project.add_conversation.resources
+D:\데이터베이스\project\project\obj\Debug\project.del_contact.resources
+D:\데이터베이스\project\project\obj\Debug\project.del_conversation.resources
+D:\데이터베이스\project\project\obj\Debug\project.Form1.resources
+D:\데이터베이스\project\project\obj\Debug\project.main.resources
+D:\데이터베이스\project\project\obj\Debug\project.contact.resources
+D:\데이터베이스\project\project\obj\Debug\project.conversation.resources
+D:\데이터베이스\project\project\obj\Debug\project.Resources.resources
+D:\데이터베이스\project\project\obj\Debug\project.ser_contact.resources
+D:\데이터베이스\project\project\obj\Debug\project.ser_conversation.resources
+D:\데이터베이스\project\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\project.exe.config
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\MySql.Data.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\Google.Protobuf.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\Renci.SshNet.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\bin\Debug\MySql.Data.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.add_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.del_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.del_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.main.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.Resources.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.ser_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.ser_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.view_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.choose_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.send_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.choose_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.send_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.choose_contact2.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.receive_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기\project\obj\Debug\project.receive_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\project.exe.config
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\MySql.Data.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\Google.Protobuf.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\Renci.SshNet.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\bin\Debug\MySql.Data.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.add_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.choose_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.choose_contact2.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.receive_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.receive_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.send_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.choose_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.del_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.del_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.main.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.Resources.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.send_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.ser_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.ser_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.view_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\따오기 - 복사본\project\obj\Debug\project.del_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\project.exe.config
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\project.exe
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\project.pdb
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\project.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\MySql.Data.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\Google.Protobuf.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\Renci.SshNet.dll
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\bin\Debug\MySql.Data.xml
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.add_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.choose_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.choose_contact2.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.del_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.receive_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.receive_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.send_contact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.choose_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.del_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.del_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.main.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.Resources.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.send_nocontact_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.ser_contact.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.ser_conversation.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.view_message.resources
+C:\Users\parkj\Desktop\산기대 과제\데이터베이스\팀플최종본-수정\project\obj\Debug\project.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\project.exe.config
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.exe
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.xml
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.pdb
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\project.exe
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\project.pdb
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\project.xml
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\팀플최종본-final\project\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.add_contact.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.choose_contact.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.choose_contact2.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.del_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.receive_contact_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.receive_nocontact_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.send_contact_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.choose_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.del_contact.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.del_conversation.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.main.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.contact.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.conversation.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.Resources.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.send_nocontact_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.ser_contact.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.ser_conversation.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.view_message.resources
+C:\Users\Administrator\Desktop\팀플최종본-final\project\obj\Debug\project.vbproj.GenerateResource.Cache

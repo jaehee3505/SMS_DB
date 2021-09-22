@@ -1,0 +1,466 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+project
+</name>
+</assembly>
+<members>
+<member name="T:project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.contact_addressDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.conversationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.messageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.contact_addressRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.conversationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.messageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.contact_addressRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.conversationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet.messageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.contact_addressTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.conversationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.messageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(project.phone_schemaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(project.phone_schemaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(project.phone_schemaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSetTableAdapters.TableAdapterManager.UpdateAll(project.phone_schemaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1.conversationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1.conversationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1.conversationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1TableAdapters.conversationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(project.phone_schemaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(project.phone_schemaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(project.phone_schemaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.UpdateAll(project.phone_schemaDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.contact_addressDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.conversationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.contact_addressRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.conversationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.contact_addressRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2.conversationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2TableAdapters.contact_addressTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2TableAdapters.conversationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(project.phone_schemaDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(project.phone_schemaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(project.phone_schemaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.UpdateAll(project.phone_schemaDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:project.phone_schemaDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:project.taskDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:project.taskDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.employee2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.logininfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.projectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.project2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.testDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.worksfor1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.employee2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.logininfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.projectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.project2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.testRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.worksfor1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:project.taskDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.employee2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.logininfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.projectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.project2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.testRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSet.worksfor1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.employee2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.logininfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.projectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.project2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.testTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.worksfor1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:project.taskDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(project.taskDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:project.taskDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(project.taskDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:project.taskDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(project.taskDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:project.taskDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:project.taskDataSetTableAdapters.TableAdapterManager.UpdateAll(project.taskDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:project.taskDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
